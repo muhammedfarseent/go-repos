@@ -17,5 +17,4 @@ func main(){
 
    } 
 
-Create a simple calculator using switch
 
